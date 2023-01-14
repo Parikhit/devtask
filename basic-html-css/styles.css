@@ -131,24 +131,26 @@ button {
     width: 22px;
     height: 22px;
 }
-.bottom-texts {
+.signup-section {
     padding-left: 0;
     text-align: center;
-    font: normal normal normal 12px/17px Roboto;
+    /* font: normal normal normal 12px/17px Roboto; */
     /* border: 1px solid red; */
 }
-.bottom-text1 {
+.signup {
     height: 16px;
+    font: normal normal normal 12px/17px Roboto;
 }
-.highlighted-text1 {
+.signup-link {
     height: 16px;
     color: #e70b89;
 }
 
-.bottom-text2 {
+.terms-conditions {
     margin-bottom: 64px;
+    font: normal normal normal 12px/17px Roboto;
 }
-.highlighted-text2 {
+.terms-condition-link {
     text-decoration: underline;
     color: #e70b89;
 }
